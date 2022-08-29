@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SBA5</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="username">Username:</string>
+    <string name="score">Score:</string>
+    <string name="course">Course</string>
+    <string name="answer">Check Weight</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
