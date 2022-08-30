@@ -52,4 +52,11 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
 
     }
+
+    fun web (){
+        val url = "http://www.google.com"
+        val intent = Intent(Intent.ACTION_VIEW)
+        intent.data = Uri.parse(url)
+        startActivity(intent)
+    }
 }
